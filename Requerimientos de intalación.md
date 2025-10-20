@@ -1,7 +1,8 @@
-Requerimientos de instalación:
+# Requerimientos de instalación:
 ------------------------------------------------------------------------------------------------------------
 
-1-Requisitos previos
+**1-Requisitos previos**
+
 Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 Python 3.8 o superior
@@ -11,7 +12,7 @@ Si aparece algo como Python 3.10.8, significa que ya está instalado correctamen
 
 ------------------------------------------------------------------------------------------------------------
 
-2-Crear un entorno virtual (opcional pero recomendado)
+**2-Crear un entorno virtual (opcional pero recomendado)**
 
 Un entorno virtual te permite instalar las librerías necesarias sin afectar otros proyectos que tengas en tu computadora.
 Para crear uno, ejecuta en la terminal (dentro de la carpeta del proyecto) el siguiente codigo
@@ -22,7 +23,7 @@ venv\Scripts\activate
 
 ------------------------------------------------------------------------------------------------------------
 
-3-Instalar las librerías necesarias
+**3-Instalar las librerías necesarias**
 
 Este proyecto utiliza la librería PrettyTable, que permite mostrar tablas formateadas en la consola.
 Puedes instalarla de dos formas:
@@ -48,7 +49,7 @@ correr un comando para instalar todo lo necesario.
 
 ------------------------------------------------------------------------------------------------------------
 
-4-Verificación de la instalación
+**4-Verificación de la instalación**
 
 Una vez completada la instalación, puedes verificar que la librería se haya instalado correctamente ejecutando en la terminal:
 pip show prettytable
@@ -59,7 +60,7 @@ Summary: A simple Python library for easily displaying tabular data in a visuall
 
 ------------------------------------------------------------------------------------------------------------
 
-5-Ejecución del programa
+**5-Ejecución del programa**
 
 Cuando todas las librerías estén instaladas, simplemente ejecuta el programa con:
 python codigo.py
