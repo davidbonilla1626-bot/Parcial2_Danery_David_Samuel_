@@ -21,11 +21,4 @@ El objetivo es mostrar cómo definir columnas, agregar filas y personalizar la a
 
 ## Ejecución del programa
 El programa se ejecuta con normalidad y el resultado mostrará una tabla con los datos alineados al centro.
-como esta tabla
-+---------+------+---------------+
-|  Nombre | Edad |    Carrera    |
-+---------+------+---------------+
-|  Samuel |  20  |  Informática  |
-|  David  |  22  |  Ingeniería   |
-|  Danery |  21  | Computación   |
-+---------+------+---------------+
+
